@@ -1,3 +1,8 @@
 # simple-machine-learning-classification-with-numpy-and-matplotlib
 
-![Test Image 4](https://firebasestorage.googleapis.com/v0/b/shopfast-4db38.appspot.com/o/Screenshot%202019-10-16%20at%2012.45.15%20PM.png?alt=media&token=e6287909-f209-488f-a16c-2028f945add7=500*500)
+
+<img src="https://firebasestorage.googleapis.com/v0/b/github-7b9cb.appspot.com/o/Screenshot%202019-10-16%20at%201.12.50%20PM.png?alt=media&token=9e4b53aa-51d4-4cd6-b97c-7ecc5743950a" width="1000" height="50">
+
+
+ 
+
